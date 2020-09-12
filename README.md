@@ -1,4 +1,4 @@
-For COMS W4156 Assignment I0: learn Git and Github
+For COMS W4156 Assignment I0: learn to use Git and Github
 
 <p align="center">
   <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
